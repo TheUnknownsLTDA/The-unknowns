@@ -1,31 +1,31 @@
 
-# 💻 The Unknowns
+# The Unknowns
 
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+## 📚 Informações sobre o projeto
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+* O projeto está sendo desenvolvido ao decorrer das aulas de Engenharia de Software
 
-### Ajustes e melhorias
+&nbsp;
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+## ⚙️ Instalação
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/TheUnknownsLTDA/The-unknowns.git
+```
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
-
-
+```
+# Acesse a pasta da aplicação para visualizar os arquivos
+$ cd The-unknowns
+```
+&nbsp;
 
 ## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/AlexandreSCorreia">
         <img src="https://avatars.githubusercontent.com/u/54811188?s=400&u=131b1876ff0ab5656764e2b8819ff90416c60942&v=4" width="100px;" alt="Foto do AlexandreSCorreia no GitHub"/><br>
         <sub>
           <b>AlexandreSCorreia</b>
@@ -33,7 +33,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/karolinavalgas">
         <img src="https://avatars.githubusercontent.com/u/100323519?v=4" width="100px;" alt="Foto do karolinavalgas no GitHub"/><br>
         <sub>
           <b>karolinavalgas</b>
@@ -41,7 +41,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/vitorcbs">
         <img src="https://avatars.githubusercontent.com/u/87830090?v=4" width="100px;" alt="Foto do vitorcbs no GitHub"/><br>
         <sub>
           <b>vitorcbs</b>
@@ -51,7 +51,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
   <tr>
    <td align="center">
-      <a href="#">
+      <a href="https://github.com/otaviobenedicto">
         <img src="https://avatars.githubusercontent.com/u/79219098?v=4" width="100px;" alt="Foto do otaviobenedicto no GitHub"/><br>
         <sub>
           <b>otaviobenedicto</b>
@@ -59,16 +59,16 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
       <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do GUILHERME no GitHub"/><br>
+      <a href="https://github.com/guilhermesouzza1">
+        <img src="https://avatars.githubusercontent.com/u/100325451?v=4" width="100px;" alt="Foto do GUILHERME no GitHub"/><br>
         <sub>
           <b>GUILHERME</b>
         </sub>
       </a>
     </td>
       <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do DANILO no GitHub"/><br>
+      <a href="https://github.com/DaniloMiyoshi">
+        <img src="https://avatars.githubusercontent.com/u/100325203?v=4" width="100px;" alt="Foto do DANILO no GitHub"/><br>
         <sub>
           <b>DANILO</b>
         </sub>
@@ -77,10 +77,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#The-Unknowns)<br>
